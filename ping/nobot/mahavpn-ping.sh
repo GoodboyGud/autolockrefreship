@@ -1,5 +1,6 @@
 #!/bin/sh
 # Owner @AfthonPc MahaVPN
+# Modem Huawei - Metode PING - Tanpa notif bot
 
 # > Dibawah ini isi sesuai dengan kebutuhan anda
 
