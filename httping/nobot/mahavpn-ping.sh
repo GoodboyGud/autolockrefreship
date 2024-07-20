@@ -1,6 +1,6 @@
 #!/bin/sh
 # Owner @AfthonPc MahaVPN
-# Metode httping
+# Modem Huawei - Metode HTTPING - Tanpa notif bot
 
 # > Dibawah ini isi sesuai dengan kebutuhan anda
 
