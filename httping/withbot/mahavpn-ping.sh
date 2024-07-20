@@ -1,6 +1,6 @@
 #!/bin/bash
 # Owner @AfthonPc MahaVPN
-# Metode httping & Bot version
+# Modem Huawei - Metode HTTPING - Notif Bot
 
 # >> DIBAWAH INI ISI SESUAI KEBUTUHAN ANDA DENGAN BACA PETUNJUK PENGISIAN
 # > konfigurasi httping
