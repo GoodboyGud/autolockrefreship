@@ -1,6 +1,6 @@
 #!/bin/bash
 # Owner @AfthonPc MahaVPN
-# Metode PING & Bot version
+# Modem Huawei - Metode PING - Notif Bot
 
 # >> DIBAWAH INI ISI SESUAI KEBUTUHAN ANDA DENGAN BACA PETUNJUK PENGISIAN
 
